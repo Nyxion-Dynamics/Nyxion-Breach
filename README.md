@@ -1,6 +1,6 @@
 # Nyxion-Breach
 
-Cheat for Roblox that uses Nyxion OS
+Cheat for Roblox
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nyxion-Dynamics/Nyxion-Breach/refs/heads/main/loader.lua"))()
